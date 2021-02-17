@@ -2,7 +2,7 @@
 # Title: CDInventory.py
 # Desc: Starter Script for Assignment 05
 # Change Log: (Who, When, What)
-# DBiesinger, 2030-Jan-01, Created File
+# AsBruck, 2021-Feb-16, Created File
 #------------------------------------------#
 
 # Declare variabls
